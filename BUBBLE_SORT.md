@@ -1,3 +1,14 @@
+//ALGO
+START
+Define an array
+for i in array
+for j in array
+if array[j]>array[j+1]
+then
+swap array[j] and array[j+1]
+end for
+END
+
 //PSEUDOCODE
 START
      INPUT array 
