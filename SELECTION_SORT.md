@@ -1,5 +1,3 @@
-
-```
 # Selection Sort Algorithm
 
 ## Algorithm
@@ -23,5 +21,4 @@ START
         SWAP array[i] and array[minIndex]
     END FOR
 END
-```
 ```
